@@ -6,6 +6,7 @@ learn it here
 * [learning objectives](#learning-objectives)
 * [test cases](#test-cases)
 * [testing framework](#testing-framework)
+* [resources](#resources)
 
 ### Challenges
 * variables
@@ -107,6 +108,16 @@ simple_framework: {
 
 [TOP](#test-cases)
 
+---
+
+## Resources
+
+* [js.info: operators](https://javascript.info/operators)
+* [js.info: type conversions](https://javascript.info/type-conversions)
+* [truthiness](https://github.com/janke-learning/truthiness) 
+
+
+[TOP](#test-cases)
 
 ---
 ---
